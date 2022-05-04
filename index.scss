@@ -6,7 +6,19 @@
 .main_header{
     width: 100vw;
     height: 100vh;
+    background-color:$bg-color;
+   place-items: center;
+    display: grid;
 }
 h1{
     color:red;
+    font-size: 5rem+2rem;
 }
+
+
+///operators
+///Variables
+html{
+    font-size: 65.2%;
+}
+$bg-color:#565656;

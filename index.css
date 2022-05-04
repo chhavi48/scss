@@ -8,9 +8,18 @@
 .main_header {
   width: 100vw;
   height: 100vh;
+  background-color: bg-color;
+  place-items: center;
+  display: -ms-grid;
+  display: grid;
 }
 
 h1 {
   color: red;
+  font-size: 7rem;
+}
+
+html {
+  font-size: 65.2%;
 }
 /*# sourceMappingURL=index.css.map */
