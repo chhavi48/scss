@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.main_header {
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  color: red;
+}
+/*# sourceMappingURL=index.css.map */
