@@ -18,6 +18,17 @@ h1{
 
 ///operators
 ///Variables
+///nesting----- we can use & at the place of classname also we can uses the elements
+///Mixin --- when we want to use same property at many times you can use mixin like @keyframes
+//  @mixin propertryname {
+         /////
+///}
+// where you want to use 
+  /// classname{
+      /// @include mixinname
+
+      //}
+
 html{
     font-size: 65.2%;
 }
